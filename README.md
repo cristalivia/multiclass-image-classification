@@ -9,13 +9,13 @@ This project applies deep learning to classify disaster images into four categor
 
 ## Results
 Model 1 (Custom CNN): Accuracy ≈ 55%, biased toward majority class.
-<img width="704" height="728" alt="image" src="https://github.com/user-attachments/assets/019b4f81-d536-44dd-8137-62fc399cbbaf" />
+<img width="504" height="528" alt="image" src="https://github.com/user-attachments/assets/019b4f81-d536-44dd-8137-62fc399cbbaf" />
 
 Model 2 (MobileNetV2): Accuracy ≈ 78%, more balanced across classes.
-<img width="708" height="735" alt="image" src="https://github.com/user-attachments/assets/d2c579d9-e465-4ee5-a366-865f1f7ab6f7" />
+<img width="508" height="535" alt="image" src="https://github.com/user-attachments/assets/d2c579d9-e465-4ee5-a366-865f1f7ab6f7" />
 
 After LR tuning (0.00001): highest accuracy with improved balance.
-<img width="718" height="736" alt="image" src="https://github.com/user-attachments/assets/b9da1a0b-05a6-4dd2-aed7-14272d429290" />
+<img width="518" height="536" alt="image" src="https://github.com/user-attachments/assets/b9da1a0b-05a6-4dd2-aed7-14272d429290" />
 
 five samples are used to demonstrate the best performance results of Model 2:
 <img width="1316" height="719" alt="image" src="https://github.com/user-attachments/assets/c2dba57b-f608-48b0-ac89-04fa34803866" />
